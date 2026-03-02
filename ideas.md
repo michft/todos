@@ -7,12 +7,21 @@
 - Gym app
   - alternate in muscle group
   - youtube
-  - other stuff  
+  - other stuff
+
 - Todo MD notes in github
   - how much style
+
 - 2gf
   - standard dating app
   - video chat
   - speed dating
   - text chat
   - standard profiles
+
+- aws-reader-test
+  - skill for ai to test AWS changes
+  - uses awsume and .config
+  - readonly
+  - can be used in red-green (tagged) or exploration
+
